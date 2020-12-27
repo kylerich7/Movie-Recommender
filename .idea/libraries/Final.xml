@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Final.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-csv.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/courserajava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/apache-csv.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/courserajava.jar!/" />
+    </SOURCES>
+  </library>
+</component>
